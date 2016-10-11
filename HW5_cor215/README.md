@@ -1,3 +1,5 @@
+<span style="color: pink;"><b>Chhristian O. Rosado</b></span>
+
 <b>Assignment 1 and 2</b>
 
 For these first two assignments I worked with Jon Toy, Bailey Griswold, Dana K., and Adrian Dahlin. 
