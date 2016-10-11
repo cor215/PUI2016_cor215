@@ -1,4 +1,4 @@
-<span style="color: pink;"><b>Chhristian O. Rosado</b></span>
+<h1 style="color: pink;">Chhristian O. Rosado</h1>
 
 <b>Assignment 1 and 2</b>
 
