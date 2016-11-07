@@ -1,5 +1,5 @@
 # Peer Review for cor215  - hw7 plot
-Reviwed by: Ziman Zhou (zz1598) <br/>
+Reviewed by: Ziman Zhou (zz1598) <br/>
 
 Plot Author: Christian O Rosado (cor215) <br/>
 Link to Github Repository: <br/>
