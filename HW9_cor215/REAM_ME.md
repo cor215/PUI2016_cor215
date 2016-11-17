@@ -7,7 +7,7 @@ I worked with Jon and Dana. They were both helpful with collapsing the data cube
 
 ## Task 2
 
-I worked with Jon and Dana. Together we were able to calulate the percent increase for every MTA Card Type. I also explered with customising pandas' data frame with css.
+I worked with Jon and Dana. Together we were able to calulate the percent increase for every MTA Card Type. I also explered with customising pandas' data frame with css. Below you will see the largest steadily increase in gold and the largest steadily decrease in rose.
 
 <img src='Percent_Increase.png' style='height:200px;' />
 
