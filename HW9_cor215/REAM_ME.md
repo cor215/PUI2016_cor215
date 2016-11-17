@@ -1,6 +1,5 @@
-# Christian Rosado
-# Home Work 9
-# Nov. 16, 2016
+# Christian Rosado, Home Work 9
+### Nov. 16, 2016
 
 ## Task 1
 
