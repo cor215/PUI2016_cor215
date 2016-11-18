@@ -4,3 +4,6 @@ For assignment 1, I worked with Baily, Jon, Enrique, and Dana. I realy enjoyed c
 # ASSIGNMENT 2
 For assignment 2, I worked with Jon Toy, Tyler Woebkenberg, and Dana K. We posted a summary of our results of the citibike investigation as an Authorea collaborative document on: https://www.authorea.com/users/105835/articles/133675/_show_article
 
+# FBB feedback
+
+I like that you all worked collaboratively in the authorea environments and left comments for each other. But the analysis is WRONG! your Null is consistent with the proportions in the data! See the cmments in the authorea paper and the updated notebook on xy1002 github 
