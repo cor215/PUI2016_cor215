@@ -2,4 +2,4 @@
 
 
 # Assignement 1 
-I had the pleasure of working Dana K. and Jon T. thorughout the semster. The format of collaboration encouraged by Dr. Bianco was the most helpful tool during this class and I encourage this format in future clases. 
+I had the pleasure of working Dana K. and Jon T. throughout the semster. The format of collaboration encouraged by Dr. Bianco was the most helpful tool during this class and I encourage this format in future clases. 
